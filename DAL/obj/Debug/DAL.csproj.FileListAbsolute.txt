@@ -1,0 +1,765 @@
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\netstandard.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Console.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Linq.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Memory.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Memory.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\obj\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\DAL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\netstandard.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Console.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Linq.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Memory.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Memory.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vitalik\Desktop\Course_6\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\DAL\obj\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\netstandard.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Console.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Linq.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Memory.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Memory.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\DAL\obj\Debug\DAL.pdb
+D:\Repositories\Course_6\DAL\bin\Debug\DAL.dll.config
+D:\Repositories\Course_6\DAL\bin\Debug\DAL.dll
+D:\Repositories\Course_6\DAL\bin\Debug\DAL.pdb
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\netstandard.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.AppContext.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.Concurrent.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.NonGeneric.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.Specialized.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ComponentModel.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Console.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Data.Common.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.Debug.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.Process.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.Tools.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Drawing.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Dynamic.Runtime.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Globalization.Calendars.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Globalization.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Globalization.Extensions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.Compression.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.FileSystem.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.Pipes.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Linq.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Linq.Expressions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Linq.Parallel.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Linq.Queryable.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Http.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.NameResolution.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.NetworkInformation.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Ping.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Requests.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Security.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.Sockets.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Net.WebSockets.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ObjectModel.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Reflection.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Reflection.Extensions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Reflection.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Resources.Reader.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Resources.ResourceManager.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Resources.Writer.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Extensions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Handles.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Numerics.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Claims.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.Principal.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Security.SecureString.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Text.Encoding.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Text.RegularExpressions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Overlapped.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Tasks.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Thread.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.ThreadPool.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Timer.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ValueTuple.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.XDocument.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.XmlDocument.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.XPath.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Repositories\Course_6\DAL\bin\Debug\EntityFramework.dll
+D:\Repositories\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Repositories\Course_6\DAL\bin\Debug\Ninject.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Buffers.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.Immutable.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Memory.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Repositories\Course_6\DAL\bin\Debug\EntityFramework.xml
+D:\Repositories\Course_6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Repositories\Course_6\DAL\bin\Debug\Ninject.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Buffers.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Collections.Immutable.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Memory.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Repositories\Course_6\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Repositories\Course_6\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Repositories\Course_6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Repositories\Course_6\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Repositories\Course_6\DAL\obj\Debug\DAL.dll
+D:\Repositories\Course_6\DAL\obj\Debug\DAL.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\DAL.dll.config
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\DAL.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\DAL.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\netstandard.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Console.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Linq.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Ninject.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Memory.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\Ninject.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Memory.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\obj\Debug\DAL.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\DAL\obj\Debug\DAL.pdb
