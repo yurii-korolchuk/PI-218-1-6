@@ -1,0 +1,100 @@
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\BLL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\obj\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\obj\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\BLL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\BLL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\BLL\obj\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\BLL\obj\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\BLL.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\obj\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\BLL\obj\Debug\BLL.pdb
+D:\Repositories\Course_6\BLL\bin\Debug\BLL.dll.config
+D:\Repositories\Course_6\BLL\bin\Debug\BLL.dll
+D:\Repositories\Course_6\BLL\bin\Debug\BLL.pdb
+D:\Repositories\Course_6\BLL\bin\Debug\AutoMapper.dll
+D:\Repositories\Course_6\BLL\bin\Debug\DAL.dll
+D:\Repositories\Course_6\BLL\bin\Debug\EntityFramework.dll
+D:\Repositories\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repositories\Course_6\BLL\bin\Debug\Ninject.dll
+D:\Repositories\Course_6\BLL\bin\Debug\DAL.pdb
+D:\Repositories\Course_6\BLL\bin\Debug\DAL.dll.config
+D:\Repositories\Course_6\BLL\bin\Debug\AutoMapper.pdb
+D:\Repositories\Course_6\BLL\bin\Debug\AutoMapper.xml
+D:\Repositories\Course_6\BLL\bin\Debug\EntityFramework.xml
+D:\Repositories\Course_6\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repositories\Course_6\BLL\bin\Debug\Ninject.xml
+D:\Repositories\Course_6\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Repositories\Course_6\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Repositories\Course_6\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Repositories\Course_6\BLL\obj\Debug\BLL.dll
+D:\Repositories\Course_6\BLL\obj\Debug\BLL.pdb
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\BLL.dll.config
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\BLL.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\BLL.pdb
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\AutoMapper.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\DAL.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\EntityFramework.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\Ninject.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\DAL.pdb
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\DAL.dll.config
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\AutoMapper.pdb
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\AutoMapper.xml
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\EntityFramework.xml
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\bin\Debug\Ninject.xml
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\obj\Debug\BLL.dll
+D:\Documents 2\2 семестр\Архітектура та проектування програмного забезпечення\Course work 6 var\BLL\obj\Debug\BLL.pdb

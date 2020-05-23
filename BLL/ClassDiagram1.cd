@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.Dependencies.BusinessLogicModule">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dependencies\BusinessLogicModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DTO.ServiceDto">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAAAAAAAAAAAAQAAAAAAAAAAQAAABAAAAA=</HashCode>
+      <FileName>DTO\ServiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DTO.UserDto">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAAAAAAAwAAAAAAAAAAAAQEAAAAAA=</HashCode>
+      <FileName>DTO\UserDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Logic.ServiceActions" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACgAAAAAABAAAAiAAAAAAACAABCA=</HashCode>
+      <FileName>Logic\ServiceActions.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_unitOfWork" />
+      <Field Name="_serviceMapper" />
+      <Field Name="_serviceUpdateMapper" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BLL.Logic.UserActions" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <AssociationLine Name="_userMapper" Type="AutoMapper.IMapper">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.515" Y="0.553" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_userUpdateMapper" Type="AutoMapper.IMapper" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="5.25" />
+        <Point X="2.375" Y="5.25" />
+        <Point X="2.375" Y="4.203" />
+        <Point X="3.417" Y="4.203" Type="JumpStart" />
+        <Point X="3.583" Y="4.203" Type="JumpEnd" />
+        <Point X="5.5" Y="4.203" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.304" Y="-0.695" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAgAhEAAAAAgAAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\UserActions.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_unitOfWork" />
+      <Field Name="_userMapper" />
+      <Field Name="_userUpdateMapper" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BLL.Logic.IServiceActions">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACAAAAAAAAAAAACAAAAAAACAABCA=</HashCode>
+      <FileName>Logic\IServiceActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BLL.Logic.IUserActions">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\IUserActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DAL.Repository.IUnitOfWork">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="AutoMapper.IMapper" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
