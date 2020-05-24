@@ -1,0 +1,485 @@
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Course_6.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Course_6.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Course_6.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csc.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csc.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csc.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csi.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csi.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\csi.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Console.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\vbc.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\vbc.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\vbc.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Antlr3.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Newtonsoft.Json.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Net.Http.Formatting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Helpers.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Http.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Http.WebHost.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Mvc.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Optimization.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Razor.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\WebGrease.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\BLL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\BLL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Newtonsoft.Json.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Net.Http.Formatting.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Helpers.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Http.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Http.WebHost.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Mvc.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Optimization.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.Razor.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Antlr3.Runtime.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\obj\Debug\Course_6.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\obj\Debug\Course_6.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\obj\Debug\Course_6.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\obj\Debug\Course_6.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\obj\Debug\Course_6.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\Course_6\bin\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Course_6.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Course_6.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Course_6.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csc.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csc.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csc.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csi.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csi.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\csi.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Console.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\vbc.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\vbc.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\vbc.rsp
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Antlr3.Runtime.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\BLL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Newtonsoft.Json.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Ninject.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Net.Http.Formatting.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Helpers.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Http.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Http.WebHost.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Mvc.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Optimization.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Razor.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\WebGrease.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\DAL.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\BLL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\BLL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Ninject.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Newtonsoft.Json.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Net.Http.Formatting.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Helpers.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Http.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Http.WebHost.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Mvc.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Optimization.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.Razor.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Antlr3.Runtime.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\DAL.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\DAL.dll.config
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Course_6\Course_6\bin\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Course_6\Course_6\obj\Debug\Course_6.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\obj\Debug\Course_6.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Course_6\Course_6\obj\Debug\Course_6.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Course_6\Course_6\obj\Debug\Course_6.dll
+C:\Users\Vitalik\Desktop\Course_6\Course_6\obj\Debug\Course_6.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Course_6.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Course_6.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Course_6.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csc.exe
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csc.exe.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csc.rsp
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csi.exe
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csi.exe.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\csi.rsp
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.AppContext.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Console.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\vbc.exe
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\vbc.exe.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\vbc.rsp
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Antlr3.Runtime.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\BLL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Newtonsoft.Json.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Ninject.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Net.Http.Formatting.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Helpers.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Http.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Http.WebHost.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Mvc.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Optimization.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Razor.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\WebGrease.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\DAL.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\BLL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\BLL.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Ninject.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Newtonsoft.Json.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Net.Http.Formatting.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Helpers.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Http.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Http.WebHost.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Mvc.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Optimization.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.Razor.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Antlr3.Runtime.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\DAL.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\DAL.dll.config
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\bin\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\obj\Debug\Course_6.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\obj\Debug\Course_6.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\obj\Debug\Course_6.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\obj\Debug\Course_6.dll
+C:\Users\Vitalik\Desktop\Мусор\Course_6\Course_6\obj\Debug\Course_6.pdb
+D:\Repositories\Course_6\Course_6\bin\Course_6.dll.config
+D:\Repositories\Course_6\Course_6\bin\Course_6.dll
+D:\Repositories\Course_6\Course_6\bin\Course_6.pdb
+D:\Repositories\Course_6\Course_6\bin\roslyn\csc.exe
+D:\Repositories\Course_6\Course_6\bin\roslyn\csc.exe.config
+D:\Repositories\Course_6\Course_6\bin\roslyn\csc.rsp
+D:\Repositories\Course_6\Course_6\bin\roslyn\csi.exe
+D:\Repositories\Course_6\Course_6\bin\roslyn\csi.exe.config
+D:\Repositories\Course_6\Course_6\bin\roslyn\csi.rsp
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repositories\Course_6\Course_6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.AppContext.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Console.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.IO.Compression.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.IO.Pipes.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.AccessControl.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Claims.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.ValueTuple.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Xml.XPath.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repositories\Course_6\Course_6\bin\roslyn\vbc.exe
+D:\Repositories\Course_6\Course_6\bin\roslyn\vbc.exe.config
+D:\Repositories\Course_6\Course_6\bin\roslyn\vbc.rsp
+D:\Repositories\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe
+D:\Repositories\Course_6\Course_6\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositories\Course_6\Course_6\bin\Antlr3.Runtime.dll
+D:\Repositories\Course_6\Course_6\bin\BLL.dll
+D:\Repositories\Course_6\Course_6\bin\EntityFramework.dll
+D:\Repositories\Course_6\Course_6\bin\EntityFramework.SqlServer.dll
+D:\Repositories\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositories\Course_6\Course_6\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositories\Course_6\Course_6\bin\Newtonsoft.Json.dll
+D:\Repositories\Course_6\Course_6\bin\Ninject.dll
+D:\Repositories\Course_6\Course_6\bin\System.Net.Http.Formatting.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Helpers.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Http.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Http.WebHost.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Mvc.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Optimization.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.Razor.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.Deployment.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.dll
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.Razor.dll
+D:\Repositories\Course_6\Course_6\bin\WebGrease.dll
+D:\Repositories\Course_6\Course_6\bin\DAL.dll
+D:\Repositories\Course_6\Course_6\bin\AutoMapper.dll
+D:\Repositories\Course_6\Course_6\bin\BLL.pdb
+D:\Repositories\Course_6\Course_6\bin\BLL.dll.config
+D:\Repositories\Course_6\Course_6\bin\EntityFramework.xml
+D:\Repositories\Course_6\Course_6\bin\EntityFramework.SqlServer.xml
+D:\Repositories\Course_6\Course_6\bin\Ninject.xml
+D:\Repositories\Course_6\Course_6\bin\Newtonsoft.Json.xml
+D:\Repositories\Course_6\Course_6\bin\System.Net.Http.Formatting.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Helpers.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Http.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Http.WebHost.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Mvc.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Optimization.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.Razor.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.Deployment.xml
+D:\Repositories\Course_6\Course_6\bin\System.Web.WebPages.Razor.xml
+D:\Repositories\Course_6\Course_6\bin\Antlr3.Runtime.pdb
+D:\Repositories\Course_6\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositories\Course_6\Course_6\bin\DAL.pdb
+D:\Repositories\Course_6\Course_6\bin\DAL.dll.config
+D:\Repositories\Course_6\Course_6\bin\AutoMapper.pdb
+D:\Repositories\Course_6\Course_6\bin\AutoMapper.xml
+D:\Repositories\Course_6\Course_6\obj\Debug\Course_6.csprojAssemblyReference.cache
+D:\Repositories\Course_6\Course_6\obj\Debug\Course_6.csproj.CoreCompileInputs.cache
+D:\Repositories\Course_6\Course_6\obj\Debug\Course_6.csproj.CopyComplete
+D:\Repositories\Course_6\Course_6\obj\Debug\Course_6.dll
+D:\Repositories\Course_6\Course_6\obj\Debug\Course_6.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Course_6.dll.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Course_6.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Course_6.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csc.exe
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csc.exe.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csc.rsp
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csi.exe
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csi.exe.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\csi.rsp
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.AppContext.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Console.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Claims.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\vbc.exe
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\vbc.exe.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\vbc.rsp
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Antlr3.Runtime.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\BLL.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\EntityFramework.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\EntityFramework.SqlServer.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Newtonsoft.Json.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Ninject.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Net.Http.Formatting.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Helpers.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Http.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Http.WebHost.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Mvc.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Optimization.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Razor.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\WebGrease.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\DAL.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\AutoMapper.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\BLL.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\BLL.dll.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\EntityFramework.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\EntityFramework.SqlServer.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Ninject.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Newtonsoft.Json.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Net.Http.Formatting.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Helpers.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Http.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Http.WebHost.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Mvc.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Optimization.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.Razor.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Antlr3.Runtime.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\DAL.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\DAL.dll.config
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\AutoMapper.pdb
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\bin\AutoMapper.xml
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\obj\Debug\Course_6.csprojAssemblyReference.cache
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\obj\Debug\Course_6.csproj.CoreCompileInputs.cache
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\obj\Debug\Course_6.csproj.CopyComplete
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\obj\Debug\Course_6.dll
+C:\Users\Юра\Desktop\Курсач 2 курс\Course_6\obj\Debug\Course_6.pdb
